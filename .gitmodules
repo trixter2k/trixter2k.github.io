@@ -1,0 +1,3 @@
+[submodule "frontend-examples"]
+	path = frontend-examples
+	url = git@github.com:trixter2k/frontend-examples.git
